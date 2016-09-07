@@ -1,5 +1,5 @@
 '''
-@author: hakuri my new branch
+@author: hakuri my new branch 
 '''
 from numpy import *
 from math import *
