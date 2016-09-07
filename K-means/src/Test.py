@@ -84,7 +84,8 @@ if __name__=='__main__':
     dataSet=loadDataSet('../../testSet.txt')
 # #     print randCent(dataSet,2)
 #      print dataSet
-#      
+#
+    
 #      print  kMeans(dataSet,2)
     a=[]
     b=[]
