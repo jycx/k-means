@@ -1,5 +1,5 @@
 '''
-@author: hakuri
+@author: hakuri my new branch
 '''
 from numpy import *
 from math import *
@@ -91,6 +91,6 @@ if __name__=='__main__':
     a, b,id=kMeans(dataSet,2)
     plotBestFit(dataSet,id,a)
    
-  
+
     
          
